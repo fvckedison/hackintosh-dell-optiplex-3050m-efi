@@ -47,3 +47,20 @@ Wi-Fi：Boardcam bcm943224pciebt2 with transfer card
 2. use [balenaetcher](https://www.balena.io/etcher) to create booting usb
 3. use [diskgenius](https://www.diskgenius.cn/download.php) to put efi to booting usb
 4. enjoy your hackintosh on DEll OptiPlex 3050m !
+
+## ➡️ Step 3 Make booting usb：
+1. [MacOs images : Olarila | The Real Vanilla Hackintosh - Vanilla macOS Images](https://linkvertise.com/462274/olarila-ventura-1311/1)
+2. use [balenaetcher](https://www.balena.io/etcher) to create booting usb
+3. use [diskgenius](https://www.diskgenius.cn/download.php) to put efi to booting usb
+4. enjoy your hackintosh on DEll OptiPlex 3050m !
+
+## ⚠️ Working function：
+- GPU support hardware decoding
+- CPU support Intel Turbo Boost
+- ALC255，layout ID 11
+- HDMI、DP
+- USB3.0 (customize)
+- Wi-Fi Bluetooth
+- Airdrop Handoff 
+## ⛔ Not working function：
+- sleep mode
